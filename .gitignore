@@ -1,0 +1,19 @@
+/public/images/*
+/node_modules/*
+node_modules/*
+node_modules
+/logs/*
+logs/*
+dest/*
+logs
+bower_components
+# dotenv environment variables file
+.env
+/backup/*
+!.gitkeep
+.sass-cache
+*.css.map
+style.css
+all_front.min.js
+/bin/env.sh
+.venv
